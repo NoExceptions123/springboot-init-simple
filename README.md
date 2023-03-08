@@ -1,4 +1,4 @@
-# SpringBoot 项目初始模板
+                            # SpringBoot 项目初始模板
 
 > 作者：[程序员鱼皮](https://github.com/liyupi)
 > 仅分享于 [编程导航知识星球](https://yupi.icu)
@@ -84,7 +84,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/my_db
+    url: jdbc:mysql://localhost:3306/lftapi
     username: root
     password: 123456
 ```
