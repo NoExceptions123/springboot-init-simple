@@ -9,7 +9,7 @@
         <version>2.7.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>cn.lft</groupId>
+    <groupId>com.lft</groupId>
     <artifactId>lftapi-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>lftapi-backend</name>
