@@ -1,2 +1,2 @@
-by 程序员鱼皮：https://github.com/liyupi
-可能是最好的编程学习圈子：https://yupi.icu
+by 你老哇塞了：https://github.com/NoExceptions123
+SpringBoot： ${spring-boot.formatted-version}
