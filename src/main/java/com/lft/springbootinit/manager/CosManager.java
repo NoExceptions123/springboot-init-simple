@@ -9,11 +9,11 @@ import javax.annotation.Resource;
 import org.springframework.stereotype.Component;
 
 /**
- * Cos 对象存储操作
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.manager
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   Cos 对象存储操作
+*/
 @Component
 public class CosManager {
 

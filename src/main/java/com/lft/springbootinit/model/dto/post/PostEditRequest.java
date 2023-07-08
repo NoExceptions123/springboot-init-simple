@@ -5,11 +5,11 @@ import java.util.List;
 import lombok.Data;
 
 /**
- * 编辑请求
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.model.dto.post
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   编辑请求
+*/
 @Data
 public class PostEditRequest implements Serializable {
 

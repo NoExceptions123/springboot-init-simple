@@ -6,11 +6,11 @@ import java.util.stream.Collectors;
 import org.apache.commons.lang3.ObjectUtils;
 
 /**
- * 文件上传业务类型枚举
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.model.enums
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   文件上传业务类型枚举
+*/
 public enum FileUploadBizEnum {
 
     USER_AVATAR("用户头像", "user_avatar");

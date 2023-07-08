@@ -8,11 +8,11 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
- * 全局异常处理器
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.exception
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   全局异常处理器
+*/
 @RestControllerAdvice
 @Slf4j
 public class GlobalExceptionHandler {

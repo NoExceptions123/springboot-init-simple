@@ -38,11 +38,11 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 用户接口
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.controller
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   用户接口
+*/
 @RestController
 @RequestMapping("/user")
 @Slf4j

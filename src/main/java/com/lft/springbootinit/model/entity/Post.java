@@ -7,11 +7,11 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * 帖子
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.model.entity
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   帖子
+*/
 @TableName(value = "post")
 @Data
 public class Post implements Serializable {

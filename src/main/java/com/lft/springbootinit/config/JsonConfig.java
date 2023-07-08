@@ -8,11 +8,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
 
 /**
- * Spring MVC Json 配置
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.config
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   Spring MVC Json 配置
+*/
 @JsonComponent
 public class JsonConfig {
 

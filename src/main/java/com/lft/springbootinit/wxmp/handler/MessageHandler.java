@@ -10,11 +10,11 @@ import me.chanjar.weixin.mp.bean.message.WxMpXmlOutMessage;
 import org.springframework.stereotype.Component;
 
 /**
- * 消息处理器
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- **/
+*@Pakage com.lft.springbootinit.wxmp.handler
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   消息处理器
+*/
 @Component
 public class MessageHandler implements WxMpMessageHandler {
 

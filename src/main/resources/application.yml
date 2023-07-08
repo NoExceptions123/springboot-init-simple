@@ -1,5 +1,4 @@
 spring:
-
   application:
     name: lftapi-backend
   # 默认 dev 环境

@@ -3,11 +3,11 @@ package com.lft.springbootinit.utils;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * SQL 工具
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.utils
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description SQL 工具
+*/
 public class SqlUtils {
 
     /**

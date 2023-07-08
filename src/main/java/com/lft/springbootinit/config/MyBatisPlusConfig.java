@@ -8,10 +8,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * MyBatis Plus 配置
- *
- * @author https://github.com/liyupi
- */
+*@Pakage com.lft.springbootinit.config
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   MyBatis Plus 配置
+*/
 @Configuration
 @MapperScan("com.lft.springbootinit.mapper")
 public class MyBatisPlusConfig {

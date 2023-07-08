@@ -13,11 +13,11 @@ import org.apache.commons.collections4.CollectionUtils;
 import org.springframework.scheduling.annotation.Scheduled;
 
 /**
- * 增量同步帖子到 es
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.job.cycle
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   增量同步帖子到 es
+*/
 // todo 取消注释开启任务
 //@Component
 @Slf4j

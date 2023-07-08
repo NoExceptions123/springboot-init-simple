@@ -12,11 +12,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * 微信公众号路由
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
- */
+*@Pakage com.lft.springbootinit.wxmp
+*@auther 邮专第一深情
+*@date 2023/7/8
+*@Description   微信公众号路由
+*/
 @Configuration
 public class WxMpMsgRouter {
 
